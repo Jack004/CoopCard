@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.WindowManager;
 
 public class MainActivity extends AppCompatActivity {
-
+    
     float oldBrightness;
     WindowManager.LayoutParams params;
 
